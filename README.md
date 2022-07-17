@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisBagalwa
 - Civil Engineer taking on Tech
-- 👀 I’m interested in Software Engineer
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Java
 
 <!---
