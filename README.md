@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @ChrisBagalwa
-- Civil Engineer taking on Tech
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Java
+# Hi there, I’m Chris Bagalwa 👋
 
-<!---
-ChrisBagalwa/ChrisBagalwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ChrisBagalwa&show_icons=true&theme=radical" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisBagalwa&layout=compact" />
